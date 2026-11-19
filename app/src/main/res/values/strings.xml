@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Urządzenia Domowe</string>
+    <string name="author">Autor: Karol K</string>
+    <string name="washer">Pralka</string>
+    <string name="program_hint">Podaj nr prania 1..12</string>
+    <string name="confirm">Zatwierdź</string>
+    <string name="program_missing">Numer prania: nie podano</string>
+    <string name="vacuum">Odkurzacz</string>
+    <string name="turn_on">Włącz</string>
+    <string name="vacuum_off">Odkurzacz wyłączony</string>
+    <string name="charged">Status: naładowany</string>
 </resources>
